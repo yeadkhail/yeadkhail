@@ -58,4 +58,4 @@ If you have any questions or need assistance related to software development, pr
 You can reach me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/). I am eager to connect with like-minded individuals and explore new software development opportunities.
 -->
 - GnuPG public key for encrypting mail is available [here]()
-- Key Fingerprint: 
+- Key Fingerprint: `3FB2 B484 A511 621D 6083 DE87 0959 9F59 F467 42DD`
