@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hello, fellow enthusiasts! 👋
 
-I'm Yead Khail, a computer science undergraduate student with a strong passion for software development and the fascinating world of Capture The Flag (CTF) challenges. Welcome to my GitHub profile!
+I'm Mohammad Yead Khail, a computer science undergraduate student with a strong passion for software development and the fascinating world of Capture The Flag (CTF) challenges. Welcome to my GitHub profile!
 
 ## 🎓 Education
 
