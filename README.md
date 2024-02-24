@@ -33,8 +33,8 @@ Apart from my academic pursuits, I actively engage in software development proje
 <!--
 I am well-versed in a variety of programming languages, tools, and technologies used in software development. Some of the key areas of my expertise include:
 -->
-- Programming Languages: Python, C++
-- Database Management: SQL
+- Programming Languages: Python, C++ , Java
+- Database Management: Oracle SQL
 - Version Control: Git, GitHub
 
 ## 🌱 Expanding Knowledge
