@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, fellow enthusiasts! 👋
+# Hi!
 
 I'm Mohammad Yead Khail, a computer science undergraduate student with a strong passion for software development and the fascinating world of Capture The Flag (CTF) challenges. Welcome to my GitHub profile!
 
@@ -33,15 +33,15 @@ Apart from my academic pursuits, I actively engage in software development proje
 <!--
 I am well-versed in a variety of programming languages, tools, and technologies used in software development. Some of the key areas of my expertise include:
 -->
-- Programming Languages: Python, C++ , Java
-- Database Management: Oracle SQL
+- Programming Languages: Python, C++, Java, Rust
+- Database Management: Oracle SQL, Sqlite
 - Version Control: Git, GitHub
 
 ## 🌱 Expanding Knowledge
 
 As a lifelong learner, I am continuously expanding my knowledge and keeping up with the latest trends in software development and in the realm of cybersecurity. Currently, I am focused on furthering my skills in the following areas:
 
-- Programming languages: Learning python and javascript.
+- Programming languages: Learning python and Rust.
 - CTF: Binary exploitation, reverse engineering and forensics.
 <!--
 ## 👯 Collaboration Opportunities
