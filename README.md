@@ -36,6 +36,7 @@ I am well-versed in a variety of programming languages, tools, and technologies 
 - Programming Languages: C, C++, Java, Python, Rust
 - Database Management: Oracle SQL, Sqlite
 - Version Control: Git, GitHub
+- Visual programmin: JavaFx
 
 ## 🌱 Expanding Knowledge
 
