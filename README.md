@@ -38,10 +38,11 @@ Apart from my academic pursuits, I actively engage in software development proje
 
 ## 🌱 Expanding Knowledge
 
-As a lifelong learner, I am continuously expanding my knowledge and keeping up with the latest trends in software development and in the realm of cybersecurity. Currently, I am focused on furthering my skills in the following areas:
+Currently, I am focused on furthering my skills in the following areas:
 
 - Programming languages: Learning python and Rust.
 - CTF: Binary exploitation, reverse engineering and forensics.
+- Web development framework: django
 <!--
 ## 👯 Collaboration Opportunities
 
