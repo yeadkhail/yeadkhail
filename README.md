@@ -44,8 +44,7 @@ I study Computer Science and build things in my free time: small services, tooli
 - **[symple_tasker](https://github.com/yeadkhail/symple_tasker)** — Task listing and viewing application which uses Covey's Time Management Quadrant to show the tasks(C++).  
 - **[cashCraft](https://github.com/yeadkhail/cashCraft)** — An expense tracking system written in Java.  
 - **[sym-tasker](https://github.com/yeadkhail/sym-tasker)** — CLI-based task listing and management application (archived).
-
-
+- **[EDUCONNECT](https://github.com/yeadkhail/EDUCONNECT-MODLOCKED-Backend)** — A comprehensive university management system designed to streamline and unify all academic and administrative processes within a single platform.
 ---
 
 ## Quick tips for contacting / collaborating
